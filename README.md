@@ -5,6 +5,11 @@ StudyStudio is a team of 5 Grok Bots that turns a student's problem photo into a
 
 [日本語 README](README.ja.md)
 
+## Demo / デモ動画
+
+- [assets/demo-doppler.mp4](assets/demo-doppler.mp4) — high-school physics, Doppler effect (ambulance siren). The [Demo](#demo) section below has the reviewer score and the check question.
+- [assets/demo-2.mp4](assets/demo-2.mp4) — high-school physics, a helium balloon in a bus turning left (inertial force and apparent gravity).
+
 ## Concept
 When students study on their own, nobody is there to notice *where* they get stuck. StudyStudio plays the role of a cram-school team: a homeroom tutor who knows the student, a lecturer who solves, a scriptwriter, a strict reviewer, and a short-video director.
 
