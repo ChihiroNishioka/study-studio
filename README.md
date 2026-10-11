@@ -39,7 +39,7 @@ Weakness found by the Tutor → reflected in the video and check question → qu
 ## Design guide
 Station-wayfinding style: white background, bold gothic, fixed step colors (①red ②blue ③green ④orange ⑤purple), "▶ いまここ" highlight, safe area. See [docs/design-guide.md](docs/design-guide.md).
 
-![mockup](assets/design-mockup.png)
+![Doppler demo frame #7, 「遠ざかると？」](assets/screenshot.png)
 
 ## Demo
 [assets/demo-doppler.mp4](assets/demo-doppler.mp4) — high-school physics, Doppler effect (ambulance siren). Reviewer score 93/100; check question (changed speed) answered correctly in chat; question logged to Notion.

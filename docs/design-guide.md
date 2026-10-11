@@ -19,4 +19,4 @@ Every video looks the same so students instantly know where to look.
 - Safe area: no text in the top/bottom ~10% or right ~12% (SNS UI overlays).
 - Don't: gradients, glow, chalkboard or dark themes.
 
-Mockup: [`assets/design-mockup.png`](../assets/design-mockup.png)
+Example frame from the Doppler demo (#7, 「遠ざかると？」): [`assets/screenshot.png`](../assets/screenshot.png)

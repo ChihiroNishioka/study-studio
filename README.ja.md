@@ -39,7 +39,7 @@
 ## デザインガイド
 駅の案内サイン風。白背景・太ゴシック・ステップごとに固定色（①赤 ②青 ③緑 ④オレンジ ⑤紫）、「▶ いまここ」の強調、セーフエリア。詳細は [docs/design-guide.md](docs/design-guide.md)。
 
-![mockup](assets/design-mockup.png)
+![ドップラー効果のデモ動画（#7「遠ざかると？」）](assets/screenshot.png)
 
 ## デモ
 [assets/demo-doppler.mp4](assets/demo-doppler.mp4)：高2物理・ドップラー効果（救急車のサイレン）。レビュー93点で合格、数値を変えた確認問題にチャットで正解、質問はNotionに記録。
