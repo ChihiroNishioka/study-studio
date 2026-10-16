@@ -10,8 +10,9 @@ Parent page: 「学習支援チーム 生徒カルテ」 (`<NOTION_PARENT_PAGE_I
 - 計算ミス:
 - 概念の誤解:
 - 読み違い:
-## 弱点単元と次の出し直し日
-| 単元 | 次の出し直し日 |
+## 弱点単元
+（生徒自身の質問・自己申告から記録）
+- 
 ## 質問の履歴
 ### <科目>
 #### <単元>
@@ -19,4 +20,4 @@ Parent page: 「学習支援チーム 生徒カルテ」 (`<NOTION_PARENT_PAGE_I
 ## 最後に解いた日
 ```
 
-The tutor bot reads this page when a problem arrives and writes to it once per problem after the video is saved. Check questions (確認問題) are posted and graded in chat after the video, but scores / 正答率 are not stored in Notion.
+The tutor bot reads this page when a problem arrives and writes to it once per problem after the video is saved. There are no check questions or grading; weak units are recorded only from the student's own questions and self-reports.
